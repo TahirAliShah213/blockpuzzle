@@ -1,16 +1,35 @@
-# blockpuzzle
+Block Puzzle Game
 
-A new Flutter project.
+A modern and engaging Block Puzzle game built with Flutter, designed to provide a smooth and addictive gaming experience across Android devices.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+* Clean and intuitive user interface
+* Drag-and-drop block placement mechanics
+* Score tracking and high-score system
+* Smooth animations and responsive gameplay
+* Optimized performance for mobile devices
+* Offline play support
+* Cross-platform architecture powered by Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* Material Design Components
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Getting Started
+
+Prerequisites
+
+* Flutter SDK
+* Android Studio or VS Code
+* Android Emulator or Physical Device
+
+Contributing
+
+Contributions, feature requests, and bug reports are welcome.
+
+License
+
+This project is available for educational and personal use.
